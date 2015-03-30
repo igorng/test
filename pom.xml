@@ -3,7 +3,7 @@
 	<groupId>test</groupId>
 	<artifactId>jgitflow-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Jira Sprint Release Note</name>
+	<name>jgitflow test</name>
 	<description>test jgitflow goals.</description>
 
 	<properties>
